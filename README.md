@@ -17,8 +17,6 @@ I'm a Software Engineer with over 7 years of commercial experience, specializing
 
     👯 I’m looking to collaborate on interesting open-source projects.
 
-    💼 I'm actively looking for a new job! Feel free to reach out if you think I'd be a good fit for your team.
-
 🧗‍♂️ Beyond the Code
 
 When I'm not building software, I'm passionate about connecting with the world around me. I love:
